@@ -68,7 +68,7 @@ And this project is my answer to that question.
 Some things I could add later:
 
 * [ ] Play multiple rounds -- 31/08/2026 completed
-* [ ] Keep track of the score
+* [ ] Keep track of the score -- 02/09/2026 completed
 * [ ] Add input validation
 * [ ] Improve the error handling
 * [ ] Add a replay option
