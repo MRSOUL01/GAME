@@ -72,7 +72,7 @@ Some things I could add later:
 * [ ] Add input validation
 * [ ] Improve the error handling
 * [ ] Add a replay option
-* [ ] Create a graphical interface
+* [ ] Create a graphical interface -- Never doing this thing again 
 
 ## 👨‍💻 Status
 
